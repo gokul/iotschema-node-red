@@ -1,11 +1,18 @@
 {
-    "name": "averageelectriccurrent-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/averageelectriccurrent",
+    "version": "1.0.0-beta",
+    "description": "The average electric current.",
     "main": "averageelectriccurrent.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "averageelectriccurrent"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "averageelectriccurrent": "averageelectriccurrent.js"
+            "averageelectriccurrent": "averageelectriccurrent.js"
         }
     }
 }

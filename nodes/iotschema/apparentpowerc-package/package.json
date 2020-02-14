@@ -1,11 +1,18 @@
 {
-    "name": "apparentpowerc-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/apparentpowerc",
+    "version": "1.0.0-beta",
+    "description": "The apparent power for phase C (there exist phases A, B, and C).",
     "main": "apparentpowerc.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "apparentpowerc"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "apparentpowerc": "apparentpowerc.js"
+            "apparentpowerc": "apparentpowerc.js"
         }
     }
 }

@@ -1,11 +1,18 @@
 {
-    "name": "activepowera-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/activepowera",
+    "version": "1.0.0-beta",
+    "description": "The active power for phase A (there exist phases A, B, and C).",
     "main": "activepowera.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "activepowera"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "activepowera": "activepowera.js"
+            "activepowera": "activepowera.js"
         }
     }
 }

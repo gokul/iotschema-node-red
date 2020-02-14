@@ -1,11 +1,18 @@
 {
-    "name": "apparentpowerb-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/apparentpowerb",
+    "version": "1.0.0-beta",
+    "description": "The apparent power for phase B (there exist phases A, B, and C).",
     "main": "apparentpowerb.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "apparentpowerb"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "apparentpowerb": "apparentpowerb.js"
+            "apparentpowerb": "apparentpowerb.js"
         }
     }
 }

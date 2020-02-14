@@ -1,11 +1,18 @@
 {
-    "name": "apparentenergy-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/apparentenergy",
+    "version": "1.0.0-beta",
+    "description": "The electric energy derived from apparent power over a period of time.",
     "main": "apparentenergy.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "apparentenergy"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "apparentenergy": "apparentenergy.js"
+            "apparentenergy": "apparentenergy.js"
         }
     }
 }

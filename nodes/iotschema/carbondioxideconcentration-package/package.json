@@ -1,11 +1,18 @@
 {
-    "name": "carbondioxideconcentration-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema-nodered/carbondioxideconcentration",
+    "version": "1.0.0-beta",
+    "description": "Concentration of carbon dioxide (CO2) in ambient air.",
     "main": "carbondioxideconcentration.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "carbondioxide concentration"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "carbondioxideconcentration": "carbondioxideconcentration.js"
+            "carbondioxideconcentration": "carbondioxideconcentration.js"
         }
     }
 }

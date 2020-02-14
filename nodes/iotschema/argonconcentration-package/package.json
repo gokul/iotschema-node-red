@@ -1,11 +1,18 @@
 {
-    "name": "argonconcentration-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/argonconcentration",
+    "version": "1.0.0-beta",
+    "description": "Concentration of argon in ambient air.",
     "main": "argonconcentration.js",
-    "node-red" : {
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "argonconcentration"
+    ],
+    "author": "iotschema",
+    "node-red": {
         "nodes": {
-        "argonconcentration": "argonconcentration.js"
+            "argonconcentration": "argonconcentration.js"
         }
     }
 }
