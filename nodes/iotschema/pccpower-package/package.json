@@ -1,8 +1,15 @@
 {
-    "name": "pccpower-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/pccpower",
+    "version": "1.0.0-beta",
+    "description": "Power at Point of Common Coupling (PCC) is the power in the point on the electrical network, nearest to the generator, at which other customers are, or could be, connected.",
     "main": "pccpower.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "pccpower"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "pccpower": "pccpower.js"

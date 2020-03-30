@@ -1,8 +1,15 @@
 {
-    "name": "overpressurealarm-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/overpressurealarm",
+    "version": "1.0.0-beta",
+    "description": "Too high pressure.",
     "main": "overpressurealarm.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "overpressurealarm"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "overpressurealarm": "overpressurealarm.js"

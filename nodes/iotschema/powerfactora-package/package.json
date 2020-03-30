@@ -1,8 +1,15 @@
 {
-    "name": "powerfactora-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/powerfactora",
+    "version": "1.0.0-beta",
+    "description": "The power factor for phase A (there exist phases A, B, and C).",
     "main": "powerfactora.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "powerfactora"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "powerfactora": "powerfactora.js"

@@ -1,8 +1,15 @@
 {
-    "name": "runmode-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/runmode",
+    "version": "1.0.0-beta",
+    "description": "Run modes of an air conditioner",
     "main": "runmode.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "runmode"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "runmode": "runmode.js"

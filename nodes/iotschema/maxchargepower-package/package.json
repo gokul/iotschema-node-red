@@ -1,8 +1,15 @@
 {
-    "name": "maxchargepower-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/maxchargepower",
+    "version": "1.0.0-beta",
+    "description": "It is the charging power limit.",
     "main": "maxchargepower.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "maxchargepower"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "maxchargepower": "maxchargepower.js"

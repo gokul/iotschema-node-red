@@ -1,8 +1,15 @@
 {
-    "name": "targettemperature-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/targettemperature",
+    "version": "1.0.0-beta",
+    "description": "Target temperature",
     "main": "targettemperature.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "targettemperature"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "targettemperature": "targettemperature.js"

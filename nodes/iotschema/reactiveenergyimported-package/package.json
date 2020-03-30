@@ -1,8 +1,15 @@
 {
-    "name": "reactiveenergyimported-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/reactiveenergyimported",
+    "version": "1.0.0-beta",
+    "description": "The electric energy derived from reactive power over a period of time, and imported (received).",
     "main": "reactiveenergyimported.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "reactiveenergyimported"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "reactiveenergyimported": "reactiveenergyimported.js"

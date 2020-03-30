@@ -1,5 +1,5 @@
 {
-    "name": "@iotschema-nodered/carbondioxideconcentration",
+    "name": "@iotschema/carbondioxideconcentration",
     "version": "1.0.0-beta",
     "description": "Concentration of carbon dioxide (CO2) in ambient air.",
     "main": "carbondioxideconcentration.js",

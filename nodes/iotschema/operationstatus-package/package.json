@@ -1,8 +1,15 @@
 {
-    "name": "operationstatus-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/operationstatus",
+    "version": "1.0.0-beta",
+    "description": "Operation status of a state.",
     "main": "operationstatus.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "operationstatus"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "operationstatus": "operationstatus.js"

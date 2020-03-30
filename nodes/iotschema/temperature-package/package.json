@@ -1,8 +1,15 @@
 {
-    "name": "temperature-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/temperature",
+    "version": "1.0.0-beta",
+    "description": "Temperature interaction property",
     "main": "temperature.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "temperature"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "temperature": "temperature.js"

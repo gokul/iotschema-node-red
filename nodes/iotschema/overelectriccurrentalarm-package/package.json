@@ -1,8 +1,15 @@
 {
-    "name": "overelectriccurrentalarm-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/overelectriccurrentalarm",
+    "version": "1.0.0-beta",
+    "description": "Too high electric current (e.g., a battery is charged or discharged with).",
     "main": "overelectriccurrentalarm.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "overelectriccurrentalarm"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "overelectriccurrentalarm": "overelectriccurrentalarm.js"

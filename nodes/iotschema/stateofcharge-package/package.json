@@ -1,8 +1,15 @@
 {
-    "name": "stateofcharge-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/stateofcharge",
+    "version": "1.0.0-beta",
+    "description": "The rounded percentage of the current charging level of a battery in the range of [0, 100].",
     "main": "stateofcharge.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "stateofcharge"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "stateofcharge": "stateofcharge.js"

@@ -1,8 +1,15 @@
 {
-    "name": "countdown-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/countdown",
+    "version": "1.0.0-beta",
+    "description": "Count-down or Timer",
     "main": "countdown.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "countdown"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "countdown": "countdown.js"

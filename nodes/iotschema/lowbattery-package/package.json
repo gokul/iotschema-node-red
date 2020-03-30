@@ -1,8 +1,15 @@
 {
-    "name": "lowbattery-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/lowbattery",
+    "version": "1.0.0-beta",
+    "description": "Indication that the battery is in a low state of charge.",
     "main": "lowbattery.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "lowbattery"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "lowbattery": "lowbattery.js"

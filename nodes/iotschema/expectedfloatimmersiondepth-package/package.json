@@ -1,8 +1,15 @@
 {
-    "name": "expectedfloatimmersiondepth-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/expectedfloatimmersiondepth",
+    "version": "1.0.0-beta",
+    "description": "The expected immersion depth of liquid in float sensor.",
     "main": "expectedfloatimmersiondepth.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "expectedfloatimmersiondepth"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "expectedfloatimmersiondepth": "expectedfloatimmersiondepth.js"

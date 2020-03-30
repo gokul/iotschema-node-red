@@ -1,8 +1,15 @@
 {
-    "name": "electriccurrentc-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/electriccurrentc",
+    "version": "1.0.0-beta",
+    "description": "The current which flows through the phase (line) C (there exist phases A, B, and C).",
     "main": "electriccurrentc.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "electriccurrentc"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "electriccurrentc": "electriccurrentc.js"

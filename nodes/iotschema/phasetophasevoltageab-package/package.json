@@ -1,8 +1,15 @@
 {
-    "name": "phasetophasevoltageab-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/phasetophasevoltageab",
+    "version": "1.0.0-beta",
+    "description": "The voltage between phases A and B (line-to-line voltages in a polyphase system).",
     "main": "phasetophasevoltageab.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "phasetophasevoltageab"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "phasetophasevoltageab": "phasetophasevoltageab.js"

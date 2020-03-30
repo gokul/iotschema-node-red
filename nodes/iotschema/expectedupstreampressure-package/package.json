@@ -1,8 +1,15 @@
 {
-    "name": "expectedupstreampressure-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/expectedupstreampressure",
+    "version": "1.0.0-beta",
+    "description": "Expected upstream pressure",
     "main": "expectedupstreampressure.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "expectedupstreampressure"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "expectedupstreampressure": "expectedupstreampressure.js"

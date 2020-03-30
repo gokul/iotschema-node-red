@@ -1,8 +1,15 @@
 {
-    "name": "reactiveenergyexported-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/reactiveenergyexported",
+    "version": "1.0.0-beta",
+    "description": "The electric energy derived from reactive power over a period of time, and exported (delivered).",
     "main": "reactiveenergyexported.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "reactiveenergyexported"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "reactiveenergyexported": "reactiveenergyexported.js"

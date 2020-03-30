@@ -1,8 +1,15 @@
 {
-    "name": "switchstatus-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/switchstatus",
+    "version": "1.0.0-beta",
+    "description": "Binary switch status (on/off property).",
     "main": "switchstatus.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "switchstatus"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "switchstatus": "switchstatus.js"

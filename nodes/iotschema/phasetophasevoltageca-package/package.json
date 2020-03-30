@@ -1,8 +1,15 @@
 {
-    "name": "phasetophasevoltageca-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/phasetophasevoltageca",
+    "version": "1.0.0-beta",
+    "description": "The voltage between phases C and A (line-to-line voltages in a polyphase system).",
     "main": "phasetophasevoltageca.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "phasetophasevoltageca"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "phasetophasevoltageca": "phasetophasevoltageca.js"

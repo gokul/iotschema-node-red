@@ -1,8 +1,15 @@
 {
-    "name": "setlevel-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/setlevel",
+    "version": "1.0.0-beta",
+    "description": "Set level Action",
     "main": "setlevel.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "setlevel"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "setlevel": "setlevel.js"

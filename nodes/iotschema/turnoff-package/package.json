@@ -1,8 +1,15 @@
 {
-    "name": "turnoff-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/turnoff",
+    "version": "1.0.0-beta",
+    "description": "Turn off a switch.",
     "main": "turnoff.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "turnoff"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "turnoff": "turnoff.js"

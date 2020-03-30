@@ -1,8 +1,15 @@
 {
-    "name": "setdimmer-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/setdimmer",
+    "version": "1.0.0-beta",
+    "description": "Set quantized representation for brightness (e.g., in the range 0-100)",
     "main": "setdimmer.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "setdimmer"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "setdimmer": "setdimmer.js"

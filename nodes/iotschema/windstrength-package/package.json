@@ -1,8 +1,15 @@
 {
-    "name": "windstrength-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/windstrength",
+    "version": "1.0.0-beta",
+    "description": "Wind strength",
     "main": "windstrength.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "windstrength"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "windstrength": "windstrength.js"

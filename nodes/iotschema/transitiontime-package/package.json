@@ -1,8 +1,15 @@
 {
-    "name": "transitiontime-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/transitiontime",
+    "version": "1.0.0-beta",
+    "description": "Transition time property",
     "main": "transitiontime.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "transitiontime"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "transitiontime": "transitiontime.js"

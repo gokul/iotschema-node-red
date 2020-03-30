@@ -1,8 +1,15 @@
 {
-    "name": "motiontype-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/motiontype",
+    "version": "1.0.0-beta",
+    "description": "The type of the sensor (for instance PIR type)",
     "main": "motiontype.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "motiontype"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "motiontype": "motiontype.js"

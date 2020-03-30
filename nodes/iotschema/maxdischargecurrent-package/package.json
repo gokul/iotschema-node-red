@@ -1,8 +1,15 @@
 {
-    "name": "maxdischargecurrent-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/maxdischargecurrent",
+    "version": "1.0.0-beta",
+    "description": "It is the discharge electric current limit (DCL).",
     "main": "maxdischargecurrent.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "maxdischargecurrent"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "maxdischargecurrent": "maxdischargecurrent.js"

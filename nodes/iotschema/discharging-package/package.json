@@ -1,8 +1,15 @@
 {
-    "name": "discharging-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/discharging",
+    "version": "1.0.0-beta",
+    "description": "The status of discharging. 'True' indicates charging, and 'False' indicates not charging.",
     "main": "discharging.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "discharging"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "discharging": "discharging.js"

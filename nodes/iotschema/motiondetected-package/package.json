@@ -1,8 +1,15 @@
 {
-    "name": "motiondetected-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/motiondetected",
+    "version": "1.0.0-beta",
+    "description": "Detects motion",
     "main": "motiondetected.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "motiondetected"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "motiondetected": "motiondetected.js"

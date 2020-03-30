@@ -1,8 +1,15 @@
 {
-    "name": "reactivepowerc-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/reactivepowerc",
+    "version": "1.0.0-beta",
+    "description": "The reactive power for phase C (there exist phases A, B, and C).",
     "main": "reactivepowerc.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "reactivepowerc"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "reactivepowerc": "reactivepowerc.js"

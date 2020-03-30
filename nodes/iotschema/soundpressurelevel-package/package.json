@@ -1,8 +1,15 @@
 {
-    "name": "soundpressurelevel-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/soundpressurelevel",
+    "version": "1.0.0-beta",
+    "description": "SPL interaction property",
     "main": "soundpressurelevel.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "soundpressurelevel"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "soundpressurelevel": "soundpressurelevel.js"

@@ -1,8 +1,15 @@
 {
-    "name": "ramptime-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/ramptime",
+    "version": "1.0.0-beta",
+    "description": "Actual speed of changing between 2 dimming values\n",
     "main": "ramptime.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "ramptime"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "ramptime": "ramptime.js"

@@ -1,8 +1,15 @@
 {
-    "name": "totalactivepower-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/totalactivepower",
+    "version": "1.0.0-beta",
+    "description": "The total active power.",
     "main": "totalactivepower.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "totalactivepower"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "totalactivepower": "totalactivepower.js"

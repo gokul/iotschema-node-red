@@ -1,8 +1,15 @@
 {
-    "name": "setpointbattery-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/setpointbattery",
+    "version": "1.0.0-beta",
+    "description": "Charge or discharge a battery (an electric power storage system) either with C-rate or E-rate. When charging it's a positive number and when discharging it's a negative number.)",
     "main": "setpointbattery.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "setpointbattery"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "setpointbattery": "setpointbattery.js"

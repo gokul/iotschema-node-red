@@ -1,8 +1,15 @@
 {
-    "name": "totalapparentpower-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/totalapparentpower",
+    "version": "1.0.0-beta",
+    "description": "The total apparent power.",
     "main": "totalapparentpower.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "totalapparentpower"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "totalapparentpower": "totalapparentpower.js"

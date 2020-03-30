@@ -1,8 +1,15 @@
 {
-    "name": "overtemperaturealarm-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/overtemperaturealarm",
+    "version": "1.0.0-beta",
+    "description": "Too high temperature.",
     "main": "overtemperaturealarm.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "overtemperaturealarm"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "overtemperaturealarm": "overtemperaturealarm.js"

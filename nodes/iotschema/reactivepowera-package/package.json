@@ -1,8 +1,15 @@
 {
-    "name": "reactivepowera-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/reactivepowera",
+    "version": "1.0.0-beta",
+    "description": "The reactive power for phase A (there exist phases A, B, and C).\n",
     "main": "reactivepowera.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "reactivepowera"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "reactivepowera": "reactivepowera.js"

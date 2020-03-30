@@ -1,8 +1,15 @@
 {
-    "name": "expectedflowrate-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/expectedflowrate",
+    "version": "1.0.0-beta",
+    "description": "Expected flow rate of a substance.",
     "main": "expectedflowrate.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "expectedflowrate"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "expectedflowrate": "expectedflowrate.js"

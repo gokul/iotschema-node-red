@@ -1,8 +1,15 @@
 {
-    "name": "linefrequency-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/linefrequency",
+    "version": "1.0.0-beta",
+    "description": "The nominal frequency of the oscillations of alternating current (AC) in an electric power grid.",
     "main": "linefrequency.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "linefrequency"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "linefrequency": "linefrequency.js"

@@ -1,8 +1,15 @@
 {
-    "name": "totalreactivepower-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/totalreactivepower",
+    "version": "1.0.0-beta",
+    "description": "The total reactive power.",
     "main": "totalreactivepower.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "totalreactivepower"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "totalreactivepower": "totalreactivepower.js"

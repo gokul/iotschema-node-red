@@ -1,8 +1,15 @@
 {
-    "name": "targethumidity-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/targethumidity",
+    "version": "1.0.0-beta",
+    "description": "Desired value for Humidity (e.g., in the range 0-100)",
     "main": "targethumidity.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "targethumidity"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "targethumidity": "targethumidity.js"

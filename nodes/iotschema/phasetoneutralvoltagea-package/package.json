@@ -1,8 +1,15 @@
 {
-    "name": "phasetoneutralvoltagea-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/phasetoneutralvoltagea",
+    "version": "1.0.0-beta",
+    "description": "The voltage between the phase (line) A and neutral (there exist phases A, B, and C).",
     "main": "phasetoneutralvoltagea.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "phasetoneutralvoltagea"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "phasetoneutralvoltagea": "phasetoneutralvoltagea.js"

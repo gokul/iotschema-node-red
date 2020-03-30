@@ -1,8 +1,15 @@
 {
-    "name": "totalpowerfactor-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/totalpowerfactor",
+    "version": "1.0.0-beta",
+    "description": "The total power factor.",
     "main": "totalpowerfactor.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "totalpowerfactor"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "totalpowerfactor": "totalpowerfactor.js"

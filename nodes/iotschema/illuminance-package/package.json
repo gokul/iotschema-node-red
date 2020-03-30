@@ -1,8 +1,15 @@
 {
-    "name": "illuminance-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/illuminance",
+    "version": "1.0.0-beta",
+    "description": "Illuminance interaction property",
     "main": "illuminance.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "illuminance"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "illuminance": "illuminance.js"

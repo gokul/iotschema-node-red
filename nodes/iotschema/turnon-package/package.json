@@ -1,8 +1,15 @@
 {
-    "name": "turnon-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/turnon",
+    "version": "1.0.0-beta",
+    "description": "Turn on a switch.",
     "main": "turnon.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "turnon"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "turnon": "turnon.js"

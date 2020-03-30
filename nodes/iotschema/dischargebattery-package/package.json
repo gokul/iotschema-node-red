@@ -1,8 +1,15 @@
 {
-    "name": "dischargebattery-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/dischargebattery",
+    "version": "1.0.0-beta",
+    "description": "Discharge a battery (an electric power storage system) either with C-rate or E-rate.)",
     "main": "dischargebattery.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "dischargebattery"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "dischargebattery": "dischargebattery.js"

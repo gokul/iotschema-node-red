@@ -1,8 +1,15 @@
 {
-    "name": "setcolour-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/setcolour",
+    "version": "1.0.0-beta",
+    "description": "RGB colour",
     "main": "setcolour.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "setcolour"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "setcolour": "setcolour.js"
