@@ -1,0 +1,19 @@
+{
+  "name": "INCOMPLETE@iotschema/pump",
+  "version": "1.0.0-beta",
+  "description": "A capability of a pump",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "pump"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/expectedflowrate": "^1.0.0-beta",
+    "@iotschema/expectedpressure": "^1.0.0-beta",
+    "@iotschema/operationstatus": "^1.0.0-beta",
+    "@iotschema/turnoff": "^1.0.0-beta",
+    "@iotschema/turnon": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@iotschema/motioncontrol",
+  "version": "1.0.0-beta",
+  "description": "Presence (motion) sensing capabilityy.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "motioncontrol"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/motiondetected": "^1.0.0-beta",
+    "@iotschema/motiontype": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "@iotschema/airconditioner",
+  "version": "1.0.0-beta",
+  "description": "A capability for air conditioner",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "airconditioner"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/countdown": "^1.0.0-beta",
+    "@iotschema/runmode": "^1.0.0-beta",
+    "@iotschema/switchstatus": "^1.0.0-beta",
+    "@iotschema/targettemperature": "^1.0.0-beta",
+    "@iotschema/temperature": "^1.0.0-beta",
+    "@iotschema/turnoff": "^1.0.0-beta",
+    "@iotschema/turnon": "^1.0.0-beta",
+    "@iotschema/windstrength": "^1.0.0-beta"
+  }
+}

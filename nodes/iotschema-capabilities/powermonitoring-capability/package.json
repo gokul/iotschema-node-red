@@ -1,0 +1,30 @@
+{
+  "name": "@iotschema/powermonitoring",
+  "version": "1.0.0-beta",
+  "description": "A capability for power monitoring in an electric circuit.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "powermonitoring"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/activepowera": "^1.0.0-beta",
+    "@iotschema/activepowerb": "^1.0.0-beta",
+    "@iotschema/activepowerc": "^1.0.0-beta",
+    "@iotschema/apparentpowera": "^1.0.0-beta",
+    "@iotschema/apparentpowerb": "^1.0.0-beta",
+    "@iotschema/apparentpowerc": "^1.0.0-beta",
+    "@iotschema/powerfactora": "^1.0.0-beta",
+    "@iotschema/powerfactorb": "^1.0.0-beta",
+    "@iotschema/powerfactorc": "^1.0.0-beta",
+    "@iotschema/reactivepowera": "^1.0.0-beta",
+    "@iotschema/reactivepowerb": "^1.0.0-beta",
+    "@iotschema/reactivepowerc": "^1.0.0-beta",
+    "@iotschema/totalactivepower": "^1.0.0-beta",
+    "@iotschema/totalapparentpower": "^1.0.0-beta",
+    "@iotschema/totalpowerfactor": "^1.0.0-beta",
+    "@iotschema/totalreactivepower": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@iotschema/illuminancesensing",
+  "version": "1.0.0-beta",
+  "description": "Sensed luminous flux per unit area in lux.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "illuminancesensing"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/illuminance": "^1.0.0-beta"
+  }
+}

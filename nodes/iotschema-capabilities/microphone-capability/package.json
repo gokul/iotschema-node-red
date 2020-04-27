@@ -1,0 +1,16 @@
+{
+  "name": "INCOMPLETE@iotschema/microphone",
+  "version": "1.0.0-beta",
+  "description": "A capability for an Internet Protocol (IP) microphone.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "microphone"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    1"@iotschema/turnoff": "^1.0.0-beta",
+    1"@iotschema/turnon": "^1.0.0-beta",
+  }
+}

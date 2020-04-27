@@ -1,0 +1,15 @@
+{
+  "name": "@iotschema/ultrasonicsensing",
+  "version": "1.0.0-beta",
+  "description": "A capability of an ultrasonic sensor",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "ultrasonicsensing"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/currentlevel": "^1.0.0-beta"
+  }
+}

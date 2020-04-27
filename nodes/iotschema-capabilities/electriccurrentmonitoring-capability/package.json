@@ -1,0 +1,19 @@
+{
+  "name": "@iotschema/electriccurrentmonitoring",
+  "version": "1.0.0-beta",
+  "description": "A capability for current monitoring in an electric circuit.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "electriccurrentmonitoring"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/averageelectriccurrent": "^1.0.0-beta",
+    "@iotschema/electriccurrenta": "^1.0.0-beta",
+    "@iotschema/electriccurrentb": "^1.0.0-beta",
+    "@iotschema/electriccurrentc": "^1.0.0-beta",
+    "@iotschema/linefrequency": "^1.0.0-beta"
+  }
+}

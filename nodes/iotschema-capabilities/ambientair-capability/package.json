@@ -1,0 +1,18 @@
+{
+  "name": "@iotschema/ambientair-capability",
+  "version": "1.0.0-beta",
+  "description": "A capability to monitor gases in ambient air. Ambient air refers to any unconfined portion of the atmosphere or outdoor air.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "ambientair"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/argonconcentration": "^1.0.0-beta",
+    "@iotschema/carbondioxideconcentration": "^1.0.0-beta",
+    "@iotschema/nitrogenconcentration": "^1.0.0-beta",
+    "@iotschema/oxygenconcentration": "^1.0.0-beta"
+  }
+}

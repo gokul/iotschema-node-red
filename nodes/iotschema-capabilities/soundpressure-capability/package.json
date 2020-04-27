@@ -1,0 +1,15 @@
+{
+  "name": "@iotschema/soundpressure",
+  "version": "1.0.0-beta",
+  "description": "Sensed Sound Pressure Level, e.g. using a microphone",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "soundpressure"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/soundpressurelevel": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@iotschema/humiditysensing",
+  "version": "1.0.0-beta",
+  "description": "Current sensed value for Humidity.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "humiditysensing"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/humidity": "^1.0.0-beta",
+    "@iotschema/targethumidity": "^1.0.0-beta"
+  }
+}

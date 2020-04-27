@@ -1,0 +1,17 @@
+{
+  "name": "@iotschema/dimmercontrol",
+  "version": "1.0.0-beta",
+  "description": "A light dimmer control capability.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "dimmercontrol"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/currentdimmer": "^1.0.0-beta",
+    "@iotschema/ramptime": "^1.0.0-beta",
+    "@iotschema/setdimmer": "^1.0.0-beta"
+  }
+}

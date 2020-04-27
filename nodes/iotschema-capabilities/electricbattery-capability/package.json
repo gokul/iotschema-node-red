@@ -1,0 +1,31 @@
+{
+  "name": "@INCOMPLETEiotschema/electricbattery",
+  "version": "1.0.0-beta",
+  "description": "A capability for an electric battery(an electric power storage system). Power at Point of Common Coupling (PCC) is the power in the point on the electrical network, nearest to the generator, at which other customers are, or could be, connected.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "electricbattery"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/batterylowvoltagealarm": "^1.0.0-beta",
+    "@iotschema/capacity": "^1.0.0-beta",
+    "@iotschema/chargebattery": "^1.0.0-beta",
+    "@iotschema/charging": "^1.0.0-beta",
+    "@iotschema/dischargebattery": "^1.0.0-beta",
+    "@iotschema/discharging": "^1.0.0-beta",
+    "@iotschema/lowbattery": "^1.0.0-beta",
+    "@iotschema/maxchargecurrent": "^1.0.0-beta",
+    "@iotschema/maxchargepower": "^1.0.0-beta",
+    "@iotschema/maxdischargecurrent": "^1.0.0-beta",
+    "@iotschema/maxdischargepower": "^1.0.0-beta",
+    "@iotschema/overelectriccurrentalarm": "^1.0.0-beta",
+    "@iotschema/overpressurealarm": "^1.0.0-beta",
+    "@iotschema/overtemperaturealarm": "^1.0.0-beta",
+    "@iotschema/overvoltagealarm": "^1.0.0-beta",
+    "@iotschema/setpointbattery": "^1.0.0-beta",
+    "@iotschema/stateofcharge": "^1.0.0-beta"
+  }
+}

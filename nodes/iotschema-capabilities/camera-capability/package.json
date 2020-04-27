@@ -1,0 +1,16 @@
+{
+  "name": "INCOMPLETE@iotschema/camera",
+  "version": "1.0.0-beta",
+  "description": "A capability for an Internet Protocol (IP) camera.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "camera"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/turnoff": "^1.0.0-beta",
+    "@iotschema/turnon": "^1.0.0-beta"
+  }
+}

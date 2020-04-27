@@ -1,0 +1,16 @@
+{
+  "name": "@iotschema/colourcontrol-capability",
+  "version": "1.0.0-beta",
+  "description": "The capability to set a color, e.g. for a colored light.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "colourcontrol"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/currentcolour": "^1.0.0-beta",
+    "@iotschema/setcolour": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@iotschema/temperaturesensing",
+  "version": "1.0.0-beta",
+  "description": "A capability for temperature sensing",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "temperaturesensing"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/temperature": "^1.0.0-beta"
+  }
+}

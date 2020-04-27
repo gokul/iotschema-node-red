@@ -1,0 +1,22 @@
+{
+  "name": "@iotschema/voltagemonitoring-capability",
+  "version": "1.0.0-beta",
+  "description": "A capability for voltage monitoring in an electric circuit.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "voltagemonitoring"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/averagephasetoneutralvoltage": "^1.0.0-beta",
+    "@iotschema/averagephasetophasevoltage": "^1.0.0-beta",
+    "@iotschema/phasetoneutralvoltagea": "^1.0.0-beta",
+    "@iotschema/phasetoneutralvoltageb": "^1.0.0-beta",
+    "@iotschema/phasetoneutralvoltagec": "^1.0.0-beta",
+    "@iotschema/phasetophasevoltageab": "^1.0.0-beta",
+    "@iotschema/phasetophasevoltagebc": "^1.0.0-beta",
+    "@iotschema/phasetophasevoltageca": "^1.0.0-beta"
+  }
+}

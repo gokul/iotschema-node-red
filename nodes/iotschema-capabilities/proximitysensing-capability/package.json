@@ -1,0 +1,16 @@
+{
+  "name": "INCOMPLETE@iotschema/proximitysensing",
+  "version": "1.0.0-beta",
+  "description": "A proximity sensing capability",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "proximitysensing"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/expectedpressure": "^1.0.0-beta",
+    "@iotschema/operationstatus": "^1.0.0-beta"
+  }
+}

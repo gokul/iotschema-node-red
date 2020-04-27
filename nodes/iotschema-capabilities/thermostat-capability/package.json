@@ -1,0 +1,16 @@
+{
+  "name": "@iotschema/thermostat",
+  "version": "1.0.0-beta",
+  "description": "A capability for thermostat",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "thermostat"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/targettemperature": "^1.0.0-beta",
+    "@iotschema/temperature": "^1.0.0-beta"
+  }
+}

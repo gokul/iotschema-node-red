@@ -1,0 +1,20 @@
+{
+  "name": "@iotschema/valve",
+  "version": "1.0.0-beta",
+  "description": "A capability of a valve",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "valve"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/expectedflowrate": "^1.0.0-beta",
+    "@iotschema/expectedpressure": "^1.0.0-beta",
+    "@iotschema/expectedupstreampressure": "^1.0.0-beta",
+    "@iotschema/operationstatus": "^1.0.0-beta",
+    "@iotschema/turnoff": "^1.0.0-beta",
+    "@iotschema/turnon": "^1.0.0-beta"
+  }
+}

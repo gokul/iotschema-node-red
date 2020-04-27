@@ -1,0 +1,15 @@
+{
+  "name": "@iotschema/electricpowersystem",
+  "version": "1.0.0-beta",
+  "description": "The class of electric power systems, i.e., systems that exchange electricity (i.e., electric power) with other systems. Electric power systems may consume, produce, or store electricity",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "electricpowersystem"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/pccpower": "^1.0.0-beta"
+  }
+}

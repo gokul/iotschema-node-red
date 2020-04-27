@@ -1,0 +1,19 @@
+{
+  "name": "@iotschema/energymonitoring",
+  "version": "1.0.0-beta",
+  "description": "A capability for energy monitoring in an electric circuit.",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "energymonitoring"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/activeenergyexported": "^1.0.0-beta",
+    "@iotschema/activeenergyimported": "^1.0.0-beta",
+    "@iotschema/apparentenergy": "^1.0.0-beta",
+    "@iotschema/reactiveenergyexported": "^1.0.0-beta",
+    "@iotschema/reactiveenergyimported": "^1.0.0-beta"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "INCOMPLETE@iotschema/floatswitch",
+  "version": "1.0.0-beta",
+  "description": "A capability of a float switch",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "floatswitch"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/expecteddensity": "^1.0.0-beta",
+    "@iotschema/expectedfloatimmersiondepth": "^1.0.0-beta",
+    "@iotschema/expectedpressure": "^1.0.0-beta",
+    "@iotschema/overflowstatus": "^1.0.0-beta"
+  }
+}

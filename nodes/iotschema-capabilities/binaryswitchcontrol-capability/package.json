@@ -1,0 +1,17 @@
+{
+  "name": "INCOMPLETE@iotschema/binaryswitchcontrol",
+  "version": "1.0.0-beta",
+  "description": "A general On/Off control capability",
+  "keywords": [
+    "iotschema",
+    "node",
+    "node-red",
+    "binaryswitchcontrol"
+  ],
+  "author": "iotschema",
+  "dependencies": {
+    "@iotschema/switchstatus": "^1.0.0-beta",
+    "@iotschema/turnoff": "^1.0.0-beta",
+    "@iotschema/turnon": "^1.0.0-beta"
+  }
+}
