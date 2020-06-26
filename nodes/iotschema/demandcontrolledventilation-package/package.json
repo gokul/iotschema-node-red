@@ -1,8 +1,15 @@
 {
-    "name": "demandcontrolledventilation-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/demandcontrolledventilation",
+    "version": "1.0.0-beta",
+    "description": "Demand controlled ventilation (DCV) maintains ambient air quality by automated adjustments of the ventilation rate provided to a space in response to changes in conditions such as occupant number or indoor pollutant concentration.",
     "main": "demandcontrolledventilation.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "demandcontrolledventilation"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "demandcontrolledventilation": "demandcontrolledventilation.js"

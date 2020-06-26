@@ -1,8 +1,15 @@
 {
-    "name": "carbondioxideconcentrationlimit-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/carbondioxideconcentrationlimit",
+    "version": "1.0.0-beta",
+    "description": "The limit (e.g., min and max value) specified for the concentration of carbon dioxide (CO2) in ambient air.",
     "main": "carbondioxideconcentrationlimit.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "carbondioxideconcentrationlimit"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "carbondioxideconcentrationlimit": "carbondioxideconcentrationlimit.js"

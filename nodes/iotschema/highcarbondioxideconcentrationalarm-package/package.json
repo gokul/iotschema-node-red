@@ -1,8 +1,15 @@
 {
-    "name": "highcarbondioxideconcentrationalarm-package",
-    "version": "1.0.0",
-    "description": "undefined",
+    "name": "@iotschema/highcarbondioxideconcentrationalarm",
+    "version": "1.0.0-beta",
+    "description": "Too high carbon dioxide concentration.",
     "main": "highcarbondioxideconcentrationalarm.js",
+    "keywords": [
+        "iotschema",
+        "node",
+        "node-red",
+        "highcarbondioxideconcentrationalarm"
+    ],
+    "author": "iotschema",
     "node-red" : {
         "nodes": {
         "highcarbondioxideconcentrationalarm": "highcarbondioxideconcentrationalarm.js"
