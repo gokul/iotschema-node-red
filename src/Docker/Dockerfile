@@ -11,8 +11,11 @@ RUN chmod +x ./nodered.sh
 RUN ./nodered.sh
 RUN cd root/.node-red && npm i coap && npm i request
 RUN cd root/.node-red && npm i @iotschema/iotschema-capability && npm i @iotschema/iotschema-utilitynodes
+COPY adaptors/ root/adaptors
+COPY examples/ root/examples
+RUN cd root/.node-red && npm i ../adaptors/* && npm i ../examples/*
 COPY start.sh start.sh
 RUN chmod +x ./start.sh
 CMD sh start.sh
-EXPOSE 8080/tcp
-EXPOSE 1880/tcp
+EXPOSE 8080
+EXPOSE 1880
