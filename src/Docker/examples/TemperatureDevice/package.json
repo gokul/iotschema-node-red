@@ -1,0 +1,14 @@
+{
+    "name": "TemperatureDevice",
+    "version": "1.0.0",
+    "description": "undefined",
+    "main": "TemperatureDevice.js",
+    "node-red" : {
+        "nodes": {
+            "ValveStatus": "TemperatureDevice.js"
+        }
+    },
+    "dependencies": {
+        "node-red-contrib-coap": "^0.3.0"
+    }
+}
